@@ -12,4 +12,6 @@ BBLAYERS ?= " \
   ##OEROOT##/meta-openembedded/meta-networking \
   ##OEROOT##/meta-openembedded/meta-python \
   ##OEROOT##/meta-phosphor \
+  ##OEROOT##/meta-security/meta-tpm \
+  ##OEROOT##/meta-security \
   "
